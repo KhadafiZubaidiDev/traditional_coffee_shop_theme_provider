@@ -28,9 +28,9 @@ class CoffeeShopTheme {
   );
 
   static final lightTheme = ThemeData(
-    scaffoldBackgroundColor: Colors.brown[400],
-    primaryColor: Colors.brown[400],
+    scaffoldBackgroundColor: Colors.brown[200],
+    primaryColor: Colors.brown[200],
     colorScheme: const ColorScheme.light(),
-    iconTheme: const IconThemeData(color: Colors.white, opacity: 0.8),
+    iconTheme: const IconThemeData(color: Colors.black, opacity: 0.8),
   );
 }
